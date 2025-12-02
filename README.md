@@ -1,2 +1,2 @@
 # Vitara-Real-Estate
-An AI base real estate website
+An AI-based real estate website
